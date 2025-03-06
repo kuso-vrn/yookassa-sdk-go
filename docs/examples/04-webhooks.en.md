@@ -33,7 +33,7 @@ import (
 	"net/http"
 	"strings"
 
-	yoowebhook "github.com/rvinnie/yookassa-sdk-go/yookassa/webhook"
+	yoowebhook "github.com/kuso-vrn/yookassa-sdk-go/yookassa/webhook"
 )
 
 func main() {
